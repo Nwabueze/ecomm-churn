@@ -87,7 +87,9 @@ ecommerce-churn-analysis/
 │   └── processed/          # Cleaned and transformed data
 │
 ├── notebooks/
-│   └── 01_eda.ipynb        # Exploratory data analysis
+│   ├── 01_eda.ipynb        # Data Cleaning
+|   ├── 02_eda.ipynb        # Feature Engineering
+|   ├── 03_churn_eda.ipynb  # EDA
 │
 ├── src/
 │   ├── data_cleaning.py
