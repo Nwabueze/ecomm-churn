@@ -16,7 +16,7 @@ The primary objectives of this project are to:
 - Measure churn rates across customer segments
 - Analyze purchasing behavior using Recency, Frequency, and Monetary (RFM) metrics
 - Generate business insights that can inform customer retention strategies
-- Demonstrate real-world data science workflows suitable for portfolio presentation
+- Set up an end-to-end churn analysis pipeline from raw transactional data to customer-level insights
 
 ---
 
