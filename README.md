@@ -91,10 +91,10 @@ ecommerce-churn-analysis/
 |   ├── 02_eda.ipynb        # Feature Engineering
 |   ├── 03_churn_eda.ipynb  # EDA
 │
-├── src/
-│   ├── data_cleaning.py
-│   ├── feature_engineering.py
-│   └── utils.py
+├── models/
+│   ├── logistic/logistic_churn_model.pkl
+│   ├── logistic/logistic_scaler.pkl
+│   └── random-forest/
 │
 ├── reports/
 │   ├── figures/            # Generated charts and plots
