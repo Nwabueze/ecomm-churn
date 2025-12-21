@@ -83,8 +83,9 @@ The project covers the following analytical steps:
 ecommerce-churn-analysis/
 │
 ├── data/
-│   ├── raw/                # Original dataset
-│   └── processed/          # Cleaned and transformed data
+│   ├── raw/online-retail.xlsx                # Original dataset
+│   └── processed/customer_churn_feature.csv  # Cleaned and transformed data
+|   └── processed/online_retail_clean.csv     # + feature engineered data
 │
 ├── notebooks/
 │   ├── 01_eda.ipynb        # Data Cleaning
