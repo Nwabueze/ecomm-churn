@@ -95,7 +95,7 @@ ecommerce-churn-analysis/
 ├── models/
 │   ├── logistic/logistic_churn_model.pkl
 │   ├── logistic/logistic_scaler.pkl
-│   └── random-forest/
+│   └── random-forest/random_forest_churn_model.pkl
 │
 ├── reports/
 │   ├── figures/            # Generated charts and plots
