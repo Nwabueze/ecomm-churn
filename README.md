@@ -49,7 +49,10 @@ The project uses the **Online Retail Dataset**, which contains historical transa
 A customer is classified as **churned** if:
 > They have not made any purchase in the last **6 months** from the most recent transaction date in the dataset.
 
-This definition reflects common industry practice in e-commerce retention analytics.
+
+The project includes a descriptive churn model that labels historical customer churn using a rule-based inactivity definition, as well as a predictive churn model that leverages customer behavior features to forecast near-term churn risk.
+
+This dual approach enables both retrospective churn analysis and forward-looking churn prevention, supporting data-driven customer retention strategies.
 
 ---
 
@@ -74,7 +77,9 @@ The project covers the following analytical steps:
 - Feature engineering using RFM metrics
 - Churn labeling based on inactivity threshold
 - Exploratory Data Analysis (EDA) and visualization
-- Business insight generation
+- Descriptive Model
+- Predictive Model
+- Business insights and Recommendations 
 
 ---
 
